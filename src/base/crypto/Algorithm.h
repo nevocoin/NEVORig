@@ -146,7 +146,6 @@ public:
 
 #   ifdef XMRIG_ALGO_RANDOMX
     static const char *kRX;
-    static const char *kRX_0;
     static const char *kRX_WOW;
     static const char *kRX_ARQ;
     static const char *kRX_GRAFT;

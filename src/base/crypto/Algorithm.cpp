@@ -154,7 +154,6 @@ static const std::map<uint32_t, const char *> kAlgorithmNames = {
 #   endif
 
 #   ifdef XMRIG_ALGO_RANDOMX
-    ALGO_NAME(RX_0),
     ALGO_NAME(RX_WOW),
     ALGO_NAME(RX_ARQ),
     ALGO_NAME(RX_GRAFT),
